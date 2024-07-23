@@ -1,21 +1,20 @@
 {
   "files": {
-    "main.css": "/webdev/static/css/main.88fd454b.css",
+    "main.css": "/webdev/static/css/main.3739b489.css",
     "main.js": "/webdev/static/js/main.7ff752c9.js",
     "static/js/453.3a43a69c.chunk.js": "/webdev/static/js/453.3a43a69c.chunk.js",
-    "static/media/fundo-madeira-img.jpg": "/webdev/static/media/fundo-madeira-img.692a31704b5612f07e65.jpg",
     "static/media/portfolio-img.png": "/webdev/static/media/portfolio-img.41b8fa926ac2eb5ca308.png",
     "static/media/cloud-img.png": "/webdev/static/media/cloud-img.6a9db0788cb04ac43c9e.png",
     "static/media/climate-img.png": "/webdev/static/media/climate-img.762f3e4ef25a24af2e5b.png",
     "static/media/frame-image.png": "/webdev/static/media/frame-image.e71a76c211f83a1726cf.png",
     "static/media/virtual-store-img.png": "/webdev/static/media/virtual-store-img.3ada65a5045111917762.png",
     "index.html": "/webdev/index.html",
-    "main.88fd454b.css.map": "/webdev/static/css/main.88fd454b.css.map",
+    "main.3739b489.css.map": "/webdev/static/css/main.3739b489.css.map",
     "main.7ff752c9.js.map": "/webdev/static/js/main.7ff752c9.js.map",
     "453.3a43a69c.chunk.js.map": "/webdev/static/js/453.3a43a69c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.88fd454b.css",
+    "static/css/main.3739b489.css",
     "static/js/main.7ff752c9.js"
   ]
 }
