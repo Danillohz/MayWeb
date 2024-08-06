@@ -1,20 +1,22 @@
 {
   "files": {
-    "main.css": "/MayWeb/static/css/main.09c81a93.css",
-    "main.js": "/MayWeb/static/js/main.249f3153.js",
+    "main.css": "/MayWeb/static/css/main.16b28abe.css",
+    "main.js": "/MayWeb/static/js/main.053effae.js",
     "static/js/453.3a43a69c.chunk.js": "/MayWeb/static/js/453.3a43a69c.chunk.js",
     "static/media/portfolio-img.png": "/MayWeb/static/media/portfolio-img.41b8fa926ac2eb5ca308.png",
     "static/media/cloud-img.png": "/MayWeb/static/media/cloud-img.6a9db0788cb04ac43c9e.png",
     "static/media/climate-img.png": "/MayWeb/static/media/climate-img.762f3e4ef25a24af2e5b.png",
     "static/media/frame-image.png": "/MayWeb/static/media/frame-image.e71a76c211f83a1726cf.png",
+    "static/media/plant_img.png": "/MayWeb/static/media/plant_img.a7a1562a31d8a0b9639a.png",
+    "static/media/romanPilaster_img.png": "/MayWeb/static/media/romanPilaster_img.119d8da3173b21b97734.png",
     "static/media/virtual-store-img.png": "/MayWeb/static/media/virtual-store-img.3ada65a5045111917762.png",
     "index.html": "/MayWeb/index.html",
-    "main.09c81a93.css.map": "/MayWeb/static/css/main.09c81a93.css.map",
-    "main.249f3153.js.map": "/MayWeb/static/js/main.249f3153.js.map",
+    "main.16b28abe.css.map": "/MayWeb/static/css/main.16b28abe.css.map",
+    "main.053effae.js.map": "/MayWeb/static/js/main.053effae.js.map",
     "453.3a43a69c.chunk.js.map": "/MayWeb/static/js/453.3a43a69c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.09c81a93.css",
-    "static/js/main.249f3153.js"
+    "static/css/main.16b28abe.css",
+    "static/js/main.053effae.js"
   ]
 }
